@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SC-10-E035J")(type "KiCad")(uri "${KIPRJMOD}/footprints/SC-10-E035J.pretty")(options "")(descr ""))
+)

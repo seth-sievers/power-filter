@@ -1,0 +1,20 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -80 -40 80 40
+WINDOW 0 0 -40 Bottom 2
+WINDOW 3 0 40 Top 2
+SYMATTR Prefix X
+SYMATTR Value LM317_TRANS
+SYMATTR ModelFile D:\Users\seth\Documents\Git\ez-test-stand\hardware\ltspice\LM317_TRANS.LIB
+PIN -80 -16 LEFT 8
+PINATTR PinName IN
+PINATTR SpiceOrder 1
+PIN -80 16 LEFT 8
+PINATTR PinName ADJ
+PINATTR SpiceOrder 2
+PIN 80 -16 RIGHT 8
+PINATTR PinName OUT_0
+PINATTR SpiceOrder 3
+PIN 80 16 RIGHT 8
+PINATTR PinName OUT_1
+PINATTR SpiceOrder 4
